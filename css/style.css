@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "SF Text";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscotext-regular-webfont.woff");
+}
+
 * {
 	padding: 0;
 	margin: 0;	
