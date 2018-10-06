@@ -71,7 +71,7 @@ input, input:focus {
 
 .searchbox:focus {
 	width: 500px;
-	background: #111;
+	background: #2e3461;
 	border: none;
 	box-shadow: none;
 }
