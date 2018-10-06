@@ -119,7 +119,7 @@ li a {
 }
 
 li a:hover {
-	background: #222;
+	background: #1d2440;
 }
 
 input#show:checked ~ .menu {
